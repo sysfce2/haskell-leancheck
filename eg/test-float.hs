@@ -20,5 +20,6 @@ main  =  do
   checkFor n $ \() -> 0.1 + 0.1 + 0.1 == 0.3
   checkFor n $ \x -> x >= 0 ==> sqrt (x ^ 2) == (x::Float)
   checkFor n $ \x -> x >= 0 ==> sqrt x ^ 2 == (x::Float)
+  checkFor n $ \x -> x + 1 > (x::Float)
   where
   n  =  10000

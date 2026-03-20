@@ -17,3 +17,5 @@
 +++ OK, passed 10000 tests.
 *** Failed! Falsifiable (after 4 tests):
 0.5
+*** Failed! Falsifiable (after 7 tests):
+Infinity
