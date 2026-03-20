@@ -2,6 +2,13 @@ Changelog for LeanCheck
 =======================
 
 
+v1.0.4 (August 2025)
+--------------------
+
+* `Test.LeanCheck.Derive.deriveListable`: avoid empty tiers when possible
+* minor Haddock documentation improvements
+
+
 v1.0.2 (January 2024)
 ---------------------
 
